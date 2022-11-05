@@ -1,4 +1,6 @@
-### Hi there 👋
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Hey Everyone<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, This is Gxme😃 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+
+<hr style="height:2px;border-width:1;border-radius: 5px;color:gray;background-color:#8080ff">
 
 <!--
 **21Gxme/21Gxme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
