@@ -2,5 +2,6 @@
 
 
 
-  <a href="https://github.com/21Gxme/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Student+Software+engineering!" /></a>
- </p>
+<p align="center">
+  <a href="https://github.com/21Gxme"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student%20Dsoftware%20engineering;Kasetsart%20University&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
