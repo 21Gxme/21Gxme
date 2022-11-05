@@ -3,5 +3,5 @@
 
 
 <p align="center">
-  <a href="https://github.com/21Gxme"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student%20Dsoftware%20engineering;Kasetsart%20University&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/21Gxme"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student%20Software%20Engineering;Kasetsart%20University&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
