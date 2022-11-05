@@ -9,5 +9,4 @@
   
   
 
-  <p align="center">
-<img height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=21Gxme&layout=compact&theme=aura&langs_count=9" />
+
