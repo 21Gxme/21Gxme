@@ -8,7 +8,5 @@
 <a href="https://www.facebook.com/Gamenisss/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Divyansh ojha" height="30" width="40" /></a>
   
   
-<p align="center">
-  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+
 
