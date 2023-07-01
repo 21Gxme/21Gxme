@@ -2,11 +2,6 @@
   <a href="https://github.com/21Gxme"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey%20Everyone;This%20is%20Gxme!;Software%20Engineer%20Student;Kasetsart%20University&font=Pacifico&center=true&width=800&height=120&color=4e98b8&vCenter=true&size=45%22"></a>
 </p>
 
-<p align="center">
-<a href="https://twitter.com/_Gxme_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Divyansh ojha" height="30" width="40" /></a>
-<a href="https://www.instagram.com/gx.me_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Divyansh ojha" height="30" width="40" /></a>
-<a href="https://www.facebook.com/Gamenisss/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Divyansh ojha" height="30" width="40" /></a>
-  
   
   
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tantikorn Prasanpangsee 
